@@ -1,0 +1,1849 @@
+2021-11-13 19:24:40,939 : INFO :  GET /
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sat, 13 Nov 2021 19:24:40 GMT
+Content-Type: text/html
+Content-Length: 344
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sat, 13 Nov 2021 00:15:51 GMT
+
+ 
+
+2021-11-13 19:24:41,131 : INFO :  GET /favicon.ico
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sat, 13 Nov 2021 19:24:41 GMT
+Content-Type: image/vnd.microsoft.icon
+Content-Length: 82726
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sat, 13 Nov 2021 00:15:51 GMT
+
+ 
+
+2021-11-13 19:24:48,518 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sat, 13 Nov 2021 19:24:48 GMT
+Content-Type: text/html
+Content-Length: 195
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sat, 13 Nov 2021 00:15:51 GMT
+
+ 
+
+2021-11-13 19:24:52,666 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sat, 13 Nov 2021 19:24:52 GMT
+Content-Type: text/html
+Content-Length: 316
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sat, 13 Nov 2021 00:15:51 GMT
+
+ 
+
+2021-11-13 19:24:52,802 : INFO :  GET /images/book.jpg
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sat, 13 Nov 2021 19:24:52 GMT
+Content-Type: image/jpg
+Content-Length: 654409
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sat, 13 Nov 2021 00:15:51 GMT
+
+ 
+
+2021-11-14 11:30:04,535 : INFO :  GET /
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:30:04 GMT
+Content-Type: text/html
+Content-Length: 397
+Content-Language: en-US,en;q=0.9
+Set-Cookie: cookid=23609; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:25:09 GMT
+
+ 
+
+2021-11-14 11:30:04,795 : INFO :  GET /favicon.ico
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:30:04 GMT
+Content-Type: image/vnd.microsoft.icon
+Content-Length: 82726
+Content-Language: en-US,en;q=0.9
+Last-Modified: Mon, 25 Oct 2021 20:24:17 GMT
+
+ 
+
+2021-11-14 11:30:10,319 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:30:10 GMT
+Content-Type: text/html
+Content-Length: 225
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 11:30:53,073 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:30:53 GMT
+Content-Type: text/html
+Content-Length: 316
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 11:30:53,305 : INFO :  GET /images/book.jpg
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:30:53 GMT
+Content-Type: image/jpg
+Content-Length: 654409
+Content-Language: en-US,en;q=0.9
+Last-Modified: Fri, 19 Jun 2020 20:36:26 GMT
+
+ 
+
+2021-11-14 11:31:20,816 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:31:20 GMT
+Content-Type: text/html
+Content-Length: 225
+Content-Language: en-US,en;q=0.9
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 11:31:20,896 : INFO :  GET /BinFiles/testaudio.mp3
+ HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 2159033
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:31:20 GMT
+Content-Type: audio/mpeg
+Content-Language: en-US,en;q=0.9
+Last-Modified: Mon, 22 Jun 2020 22:03:45 GMT
+
+ 
+
+2021-11-14 11:38:29,014 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 11:38:29 GMT
+Content-Type: text/html
+Content-Length: 225
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 12:11:40,236 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 12:11:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=13079; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:25:09 GMT
+
+ 
+
+2021-11-14 12:11:40,247 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 12:11:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 11:25:09 GMT
+
+ 
+
+2021-11-14 12:12:50,809 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 12:12:50 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=23052; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:25:09 GMT
+
+ 
+
+2021-11-14 12:12:50,819 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 12:12:50 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 11:25:09 GMT
+
+ 
+
+2021-11-14 15:55:07,122 : INFO :  PUT /DumpHere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 15:55:07 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=22505; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/DumpHere/eae28a65-4384-4e70-a5b8-d42ac6c94b86.png
+
+ 
+
+2021-11-14 16:25:25,822 : INFO :  PUT /DumpHere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 16:25:25 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=31510; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/DumpHere/b3002d3f-7841-42b4-aaec-59f24edca4db.png
+
+ 
+
+2021-11-14 16:26:20,687 : INFO :  PUT /DumpHere/bird.png
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 16:26:20 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=33853; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/DumpHere/bird.png
+
+ 
+
+2021-11-14 16:27:50,371 : INFO :  PUT /DumpHere/bird.png
+ HTTP/1.1 204 No Content
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 16:27:50 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=13038; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/DumpHere/bird.png
+
+ 
+
+2021-11-14 16:32:55,499 : INFO :  PUT /DumpHere/demo.txt
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 16:32:55 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=33149; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Content-Location: D:/http-server/DumpHere/demo.txt
+
+ 
+
+2021-11-14 16:49:14,611 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 16:49:14 GMT
+Content-Type: text/html
+Content-Length: 367
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Set-Cookie: cookid=13313; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:43:41 GMT
+
+ 
+
+2021-11-14 17:38:35,573 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:38:35 GMT
+Content-Type: text/html
+Content-Length: 367
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 17:51:40,719 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:51:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=37542; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 17:51:40,728 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:51:40 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=17477; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 17:51:40,746 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:51:40 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=20765; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 17:51:40,761 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:51:40 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=11771; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 17:51:40,786 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:51:40 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=38263; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 17:51:40,794 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:51:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=30073; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 17:51:40,804 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:51:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 17:56:28,114 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=10641; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 17:56:28,116 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=22271; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 17:56:28,120 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=19246; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 17:56:28,140 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=38202; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 17:56:28,140 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=16910; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 17:56:28,162 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=39884; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 17:56:28,177 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=23667; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 17:56:28,199 : INFO :  POST /form.html
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=38473; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: 
+Content-Location: D:/http-serverDumpHere/db986c2b-81f0-40f3-b2b1-7a96e8800e7a.json
+
+ 
+
+2021-11-14 17:56:28,213 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 17:56:28,235 : INFO :  DELETE /deldemo.txt
+ HTTP/1.1 200 OK
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 17:56:28 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=15012; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/html
+
+ 
+
+2021-11-14 18:01:06,020 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=12980; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 18:01:06,021 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=35894; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 18:01:06,035 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=34897; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 18:01:06,041 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=18195; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 18:01:06,042 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=26042; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 18:01:06,045 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=36986; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 18:01:06,059 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=37445; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 18:01:06,076 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=33507; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 18:01:06,081 : INFO :  GET /new.html
+ HTTP/1.1 304 Not Modified
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=13832; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 18:01:06,103 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 18:01:06,112 : INFO :  POST /form.html
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 18:01:06 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=25757; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: 
+Content-Location: D:/http-serverDumpHere/71a81e4a-2098-4e1b-a6a7-34ba07fa46a6.json
+
+ 
+
+2021-11-14 19:49:40,620 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=33465; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 19:49:40,621 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=19862; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 19:49:40,633 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=12947; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 19:49:40,633 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=22471; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 19:49:40,642 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=37060; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 19:49:40,642 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=17948; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 19:49:40,651 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=34057; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 19:49:40,662 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=10256; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 19:49:40,663 : INFO :  GET /new.html
+ HTTP/1.1 304 Not Modified
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=24045; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 19:49:40,705 : INFO :  PUT /Dumphere/bird.png
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=34082; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/bird.png
+
+ 
+
+2021-11-14 19:49:40,705 : INFO :  PUT /Dumphere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=25146; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/ab4a0235-6228-4ac2-87ec-f02e37ef279c.png
+
+ 
+
+2021-11-14 19:49:40,705 : INFO :  PUT /Dumphere/stats.pdf
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 19:49:40 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=18965; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/stats.pdf
+
+ 
+
+2021-11-14 20:04:26,357 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:04:26 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=37204; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:04:26,357 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:04:26 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=29806; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:04:26,378 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:04:26 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=26845; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 20:04:26,378 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:04:26 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=17543; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:04:26,382 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:04:26 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=32428; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 20:04:26,382 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:04:26 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=38681; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 20:10:15,810 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:10:15 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=30417; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:10:15,810 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:10:15 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=12780; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:10:15,826 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:10:15 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=17516; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 20:10:15,826 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:10:15 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=38647; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 20:10:15,838 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:10:15 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=17414; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:10:15,838 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:10:15 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=34027; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 20:13:47,507 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=21024; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:13:47,507 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=26889; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:13:47,525 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=33621; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 20:13:47,525 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=26319; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 20:13:47,525 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=31885; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 20:13:47,525 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=29099; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:13:47,542 : INFO :  GET /new.html
+ HTTP/1.1 304 Not Modified
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=26680; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:13:47,553 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=30284; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:13:47,569 : INFO :  PUT /Dumphere/demo.txt
+ Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=12368; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: 
+Content-Location: DumpHere/0cc9506f-d012-4e07-bc6b-6715e8616473.json
+
+ 
+
+2021-11-14 20:13:47,581 : INFO :  DELETE /deldemo.txt
+ HTTP/1.1 200 OK
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=28841; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/html
+
+ 
+
+2021-11-14 20:13:47,581 : INFO :  PUT /Dumphere/stats.pdf
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=34951; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/stats.pdf
+
+ 
+
+2021-11-14 20:13:47,597 : INFO :  PUT /Dumphere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=23762; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/3a8b2b81-bd0b-4409-92ff-5eb004a25361.png
+
+ 
+
+2021-11-14 20:13:47,597 : INFO :  PUT /Dumphere/bird.png
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:13:47 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=18519; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/bird.png
+
+ 
+
+2021-11-14 20:20:07,759 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=29368; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:20:07,761 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=21891; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:20:07,761 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=14005; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 20:20:07,764 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=38517; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 20:20:07,781 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=28598; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 20:20:07,784 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=38297; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:20:07,795 : INFO :  GET /new.html
+ HTTP/1.1 304 Not Modified
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=30140; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:20:07,797 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=35962; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:20:07,817 : INFO :  PUT /Dumphere/demo.txt
+ Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=23574; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: 
+Content-Location: DumpHere/255cf13b-199c-4e23-9089-01fddd654a43.json
+
+ 
+
+2021-11-14 20:20:07,828 : INFO :  PUT /Dumphere/bird.png
+ HTTP/1.1 204 No Content
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=13528; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/bird.png
+
+ 
+
+2021-11-14 20:20:07,828 : INFO :  PUT /Dumphere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=26762; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/a56a0419-eb67-40c6-b8a3-f22996a8e4ce.png
+
+ 
+
+2021-11-14 20:20:07,828 : INFO :  PUT /Dumphere/stats.pdf
+ HTTP/1.1 204 No Content
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:20:07 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=23286; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/stats.pdf
+
+ 
+
+2021-11-14 20:33:57,900 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=21985; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:33:57,903 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=24943; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:33:57,908 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=17098; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 20:33:57,919 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=39102; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 20:33:57,920 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=14729; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 20:33:57,928 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=38700; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:33:57,931 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=25871; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:33:57,944 : INFO :  GET /new.html
+ HTTP/1.1 304 Not Modified
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=16213; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:33:57,944 : INFO :  PUT /Dumphere/demo.txt
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=32941; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: 
+Content-Location: D:/http-server/Dumphere/demo.txt
+
+ 
+
+2021-11-14 20:33:57,952 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:33:57,960 : INFO :  PUT /Dumphere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=10517; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/9a1f4481-4f82-4ab0-b09f-d1af94f5b5f3.png
+
+ 
+
+2021-11-14 20:33:57,960 : INFO :  PUT /Dumphere/stats.pdf
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=27827; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/stats.pdf
+
+ 
+
+2021-11-14 20:33:57,960 : INFO :  PUT /Dumphere/bird.png
+ HTTP/1.1 204 No Content
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:33:57 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=26165; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/bird.png
+
+ 
+
+2021-11-14 20:40:35,384 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=13198; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:40:35,387 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=29077; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:40:35,393 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=25390; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-14 20:40:35,403 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=20260; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-14 20:40:35,403 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=39251; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-14 20:40:35,414 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=36826; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:40:35,415 : INFO :  GET /new.html
+ HTTP/1.1 304 Not Modified
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=30312; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-14 20:40:35,422 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=12023; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:40:35,429 : INFO :  PUT /Dumphere/demo.txt
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=32237; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: 
+Content-Location: D:/http-server/Dumphere/demo.txt
+
+ 
+
+2021-11-14 20:40:35,437 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:40:35,448 : INFO :  PUT /Dumphere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=36901; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/310e9f46-1112-499b-9f8a-2b811612eb92.png
+
+ 
+
+2021-11-14 20:40:35,450 : INFO :  PUT /Dumphere/stats.pdf
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=30819; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/stats.pdf
+
+ 
+
+2021-11-14 20:40:35,451 : INFO :  PUT /Dumphere/bird.png
+ HTTP/1.1 204 No Content
+Server: AnushkaT HTTP
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=35919; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/bird.png
+
+ 
+
+2021-11-14 20:40:35,827 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:35 GMT
+Content-Type: text/html
+Content-Length: 397
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Set-Cookie: cookid=39768; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-14 20:40:36,098 : INFO :  GET /favicon.ico
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Sun, 14 Nov 2021 20:40:36 GMT
+Content-Type: image/vnd.microsoft.icon
+Content-Length: 82726
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Mon, 25 Oct 2021 20:24:17 GMT
+
+ 
+
+2021-11-16 17:17:58,751 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 17:17:58 GMT
+Content-Type: text/html
+Content-Length: 397
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Set-Cookie: cookid=31507; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-16 17:17:58,891 : INFO :  GET /favicon.ico
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 17:17:58 GMT
+Content-Type: image/vnd.microsoft.icon
+Content-Length: 82726
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Mon, 25 Oct 2021 20:24:17 GMT
+
+ 
+
+2021-11-16 17:18:03,881 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 17:18:03 GMT
+Content-Type: text/html
+Content-Length: 225
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-16 19:16:06,674 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 316
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=15434; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-16 19:16:06,678 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=22879; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-16 19:16:06,679 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=20681; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-16 19:16:06,685 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=16010; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-16 19:16:06,687 : INFO :  GET /new.html
+ HTTP/1.1 304 Not Modified
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 195
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=36876; Max-Age= 3600 
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-16 19:16:06,688 : INFO :  GET /form.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 367
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=39955; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:29 GMT
+
+ 
+
+2021-11-16 19:16:06,689 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 225
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=39881; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-16 19:16:06,720 : INFO :  HEAD /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: cookid=24631; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-16 19:16:06,734 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Content-Length: 397
+Content-Type: text/html
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-16 19:16:06,741 : INFO :  PUT /Dumphere/demo.txt
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=33221; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: 
+Content-Location: D:/http-server/Dumphere/demo.txt
+
+ 
+
+2021-11-16 19:16:06,751 : INFO :  DELETE /deldemo.txt
+ HTTP/1.1 200 OK
+Server: AnushkaT HTTP
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=13198; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/html
+
+ 
+
+2021-11-16 19:16:06,769 : INFO :  PUT /Dumphere/stats.pdf
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=22830; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/stats.pdf
+
+ 
+
+2021-11-16 19:16:06,770 : INFO :  PUT /Dumphere
+ HTTP/1.1 201 Created
+Server: AnushkaT HTTP
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=30664; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/777cd993-5ed2-4923-bb49-75dcd778aa77.png
+
+ 
+
+2021-11-16 19:16:06,770 : INFO :  PUT /Dumphere/bird.png
+ HTTP/1.1 204 No Content
+Server: AnushkaT HTTP
+Date: Tue, 16 Nov 2021 19:16:06 GMT
+Accept-Ranges: bytes
+Set-Cookie: cookid=31748; Max-Age= 3600 
+Connection: keep-alive
+Content-Length: 0
+Content-Type: image/png
+Content-Location: D:/http-server/Dumphere/bird.png
+
+ 
+
+2021-11-16 19:16:07,275 : INFO :  GET /
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:07 GMT
+Content-Type: text/html
+Content-Length: 397
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Set-Cookie: cookid=26539; Max-Age= 3600 
+Last-Modified: Sun, 14 Nov 2021 16:54:54 GMT
+
+ 
+
+2021-11-16 19:16:54,429 : INFO :  GET /new.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:54 GMT
+Content-Type: text/html
+Content-Length: 195
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Sun, 31 Oct 2021 23:25:55 GMT
+
+ 
+
+2021-11-16 19:16:59,618 : INFO :  GET /withimage.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:59 GMT
+Content-Type: text/html
+Content-Length: 316
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Sun, 31 Oct 2021 19:46:44 GMT
+
+ 
+
+2021-11-16 19:16:59,753 : INFO :  GET /images/book.jpg
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:16:59 GMT
+Content-Type: image/jpg
+Content-Length: 654409
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Fri, 19 Jun 2020 20:36:26 GMT
+
+ 
+
+2021-11-16 19:17:05,072 : INFO :  GET /audio.html
+ HTTP/1.1 200 OK
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:17:05 GMT
+Content-Type: text/html
+Content-Length: 225
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Sun, 14 Nov 2021 11:22:44 GMT
+
+ 
+
+2021-11-16 19:17:05,217 : INFO :  GET /BinFiles/testaudio.mp3
+ HTTP/1.1 200 OK
+Content-Length: 2159033
+Server: AnushkaT 
+Date: Tue, 16 Nov 2021 19:17:05 GMT
+Content-Type: audio/mpeg
+Content-Language: en-US,en;q=0.9
+Connection: keep-alive
+Last-Modified: Mon, 22 Jun 2020 22:03:45 GMT
+
+ 
+
